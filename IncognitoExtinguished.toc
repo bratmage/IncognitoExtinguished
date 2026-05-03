@@ -1,0 +1,16 @@
+## Interface: 30300
+## Title: |cffFFACD8Incognito |cff0066eeExtinguished|r
+## Notes: |cff5bcefa/|cff78c7ed/|cff95c0e4B|cffb2b9dbr|cffcfb2d2a|cffecabc9t|cfff6b5c2m|cfff8c6cca|cfffad7d6g|cfffce8e0e|cffffffff/|cffffffff/|r Adds a configurable name prefix to selected outgoing chat messages.
+## Author: |cff5bcefa/|cff78c7ed/|cff95c0e4B|cffb2b9dbr|cffcfb2d2a|cffecabc9t|cfff6b5c2m|cfff8c6cca|cfffad7d6g|cfffce8e0e|cffffffff/|cffffffff/|r, daniel@pew.cc, Starlynk
+## Version: 1.0.0
+## SavedVariables: IncognitoExtinguishedDB
+## OptionalDeps: Ace3
+## X-Based-On: Incognito 1.1.1 and Incognito Resurrected 1.5.1
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+IncognitoExtinguished_enUS.lua
+IncognitoExtinguished_deDE.lua
+IncognitoExtinguished.lua
